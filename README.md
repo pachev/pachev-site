@@ -1,8 +1,7 @@
 # Pachev-site
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
-
+This is an outline a website I will be making for personal use. I plan on keeping the code open for anyone who wants to use
+it as a template. This will also serve as a means for be to explore Emberjs. 
 ## Prerequisites
 
 You will need the following things properly installed on your computer.
@@ -15,7 +14,7 @@ You will need the following things properly installed on your computer.
 
 ## Installation
 
-* `git clone <repository-url>` this repository
+* `git clone https://github.com/pachev/pachev-site.git` this repository
 * change into the new directory
 * `npm install`
 * `bower install`
@@ -25,9 +24,6 @@ You will need the following things properly installed on your computer.
 * `ember server`
 * Visit your app at [http://localhost:4200](http://localhost:4200).
 
-### Code Generators
-
-Make use of the many generators for code, try `ember help generate` for more details
 
 ### Running Tests
 
@@ -39,9 +35,6 @@ Make use of the many generators for code, try `ember help generate` for more det
 * `ember build` (development)
 * `ember build --environment production` (production)
 
-### Deploying
-
-Specify what it takes to deploy your app.
 
 ## Further Reading / Useful Links
 
