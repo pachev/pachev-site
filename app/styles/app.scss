@@ -9,12 +9,15 @@ body {
     .jumbotron {
         background-color: #b3ffb3  ;
     }
+    .navbar-name {
+        font-size : 3.5rem;
+    }
 }
 footer {
-text-align: center;
+    text-align: center;
     .social-links .social {
         color: #666;
-        font-size: 1.5rem;
+        font-size: 1.2rem;
         display: inline-block;
         margin-right: 0.8em;
     }
