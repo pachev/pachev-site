@@ -1,5 +1,21 @@
-@import "bootstrap";
+// Fix for Roboto font path
+$roboto-font-path: '../assets/';
+$fa-font-path:   "../font";
+
+@import 'bootstrap';
+
 
 body {
-    padding-top: 20px;
+    .jumbotron {
+        background-color: #b3ffb3  ;
+    }
+}
+footer {
+text-align: center;
+    .social-links .social {
+        color: #666;
+        font-size: 1.5rem;
+        display: inline-block;
+        margin-right: 0.8em;
+    }
 }
