@@ -18,3 +18,7 @@ testem.log
 
 #intelije
 .idea/
+
+
+#private files
+/public/assets/files

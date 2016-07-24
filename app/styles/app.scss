@@ -8,18 +8,28 @@ $fa-font-path:   "../font";
 body {
     .jumbotron {
         background-color: #b3ffb3  ;
+      p{
+        font-size:14px ;
+      }
     }
     .navbar-name {
         font-size : 3.5rem;
     }
     .pachev-img {
-     width:256px;
-     height:256px;
+     width:190px;
+     height:190px;
+
   }
   .profile{
     padding:30px 0;
   }
-;
+  .pachev-head{
+    color: #122b40;
+  }
+  .pachev-intro p {
+    font-size:24px;
+  }
+
 }
 footer {
     text-align: center;
